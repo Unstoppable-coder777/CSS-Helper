@@ -1,4 +1,4 @@
-<h1> <img src="./img.svg" alt="icon" />CSS Helper  - Always Help You </h1>
+<h1> <img src="./img.svg" alt="icon" width="40" height="40" />CSS Helper  - Always Help You </h1>
 It is a Styling Tool For Html element.
 In this tool You can able to make <br>
 <ul>
